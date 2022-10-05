@@ -1,0 +1,36 @@
+:: StoryData
+{
+    "ifid": "D0F62AFA-1C1E-489A-BBA8-72173B85CC63",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Taking Bad Advice
+
+:: Start
+You having been feeling under the weather for a while, and are starting to worry. You have never been sick more than a day or two and you seem to be getting worse every day. Usually you just take some Tylenol and sleep it off, but none of your usual things are making you feel any different. You decide to seek out advice from your doctor, family, and friends.
+
+You decide to start with you mom... Mom knows best, right? You pick up the phone and hope she's not busy.
+
+Mom:Hey Sweetie! What's going on, you sound weird?
+You:Oh I don't know, I haven't been feeling well for a few days. I was thinking about going to the doctor...
+Mom:Oh my God I hate the doctor. It's always so expensive! Are you sure you don't need to just drink more water?
+
+You finish up your conversation, and after a sufficient amount of gaslighting, you begin to wonder if you are, in fact, epically dehydrated.
+
+Try [[drinking]] more water.
+Go ask your [[sister]] for advice.
+
+:: drinking 
+After some research, you figure out that the recommended daily intake for water is between 1.5-3 litres. You're pretty sure you've been drinking at least that much and decide to increase your intake.
+:: sister 
+You tell your sister about the ridiculous advice your mother gave you, and find yourself being bombarded with information about yoga.
+
+sister:Of course water is important, but have you been STRETCHING? I started doing yoga a few weeks ago and I feel A M A Z I N G !!!! Come with me to my next class!
+
+Go to the [[yoga]] class with your sister.
+Go ask your [[dad]] for advice. 
+
+:: yoga 
+:: dad 
