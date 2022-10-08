@@ -9,8 +9,9 @@
 Taking Bad Advice
 
 :: Start
-You have been feeling under the weather for a while, and are starting to worry. You have never been sick more than a day or two and you seem to be getting worse every day. Usually you just take some Tylenol and sleep it off, but none of your usual things are making you feel any different. You decide to seek out advice from your doctor, family, and friends.
+You have been feeling under the weather for a while, and are starting to worry. You have never been sick more than a day or two and you seem to be getting worse every day. Usually you just take some Tylenol and sleep it off, but none of your usual things are making you feel any different. You decide to seek out [[advice]] from your doctor, family, and friends.
 
+:: advice 
 You decide to start with you mom... Mom knows best, right? You pick up the phone and hope she's not busy.
 
 Mom: Hey Sweetie! What's going on, you sound weird?
@@ -24,15 +25,19 @@ Go ask your [[sister]] for advice.
 
 :: drinking 
 After some research, you figure out that the recommended daily intake for water is between 1.5-3 litres. You're pretty sure you've been drinking at least that much and decide to increase your intake. 
+
 [[Drink]] as much water as you can.
 :: Drink
 You start drinking water, and at first you feel refreshed and super hydrated. Better not stop now! If you feel this great after doubling your intake, imagine how you'll feel after drinking even more...
+
 [[Swallow]] the Sea!!!
+You're having to go to the bathroom a lot, and as much as you'd like to feel better, this is definately not helping. You decide to go talk to your [[sister]]. 
 ::Swallow
 You keep drinking.
 And drinking.
 And drinking...
-You feel nauseated and dizzy, and you have a strange and overwhelming craving for salt.
+You feel nauseated and dizzy, and you have a strange and overwhelming craving for salt. Wait... craving salt is sign of dehydration... maybe you should drink more water?
+
 
 :: sister 
 You tell your sister about the ridiculous advice your mother gave you, and find yourself being bombarded with information about yoga.
@@ -123,8 +128,42 @@ Mom is still right about the doctor being expensive. Maybe you can figure this o
 :: internet
 You have the world at your fingertips, why haven't you consulted the internet yet? You shake your head at missing something so obvious, and do a quick search for symptom checkers...
 
-With a name like WebMD, what could go wrong?
-The internet is a cesspool of advice,
+With a name like [[WebMD]], what could go wrong?
+The internet is a cesspool of advice, most of it bad. Maybe you should go back and talk to [[Pop]] again...
+
+:: WebMD 
+You turn on your computer, and type WebMd into the browser search bar...
+
+:: Pop 
+Your dad is in the garage again when you get to your parents' house, and you start wondering if he he ceases to exist outside those four flimsy walls...
+
+You: Hey Dad, car running yet?
+Pop: Nope. One day maybe. Not today. You feeling any better?
+You: No, not really. I did what you said and tried to pull myself up by the bootstraps, but all I did was break some new boots.
+Your dad starts laughing like a maniac.
+Pop:That wasn't meant to be taken literally! Oh my, I can't wait to tell your mother about this!
+You roll your eyes.
+Pop: What you need is a night out. Have a little fun. 
+You: I'm planning on staying home and watching Texas Chainsaw Masacre.
+Pop: THERE'S your problem. You keep watching those horrible movies. You know that garbage is how you open the Devil's Doorway! 
+You: Devil's Doorway? What are you talking about?
+Pop: Never you mind! Go see what your mother wanted, she was asking for you.
+
+Go [[talk]] to your mother.
+Go watch Texas Chainsaw [[Masacre]].
+
+:: talk to mother
+
+You're pretty sure the fumes from the car engine are getting to your dad's head, so you go back to talk to your mom again.
+
+Mom: Hi sweetie! Did you just go talk to Dad?
+You: Yeah he said to see what you wanted.
+Mom: I just wanted to check and see if you were feeling any better. Did you make sure to drink more water?
+You: Yeah, I tried that and it didn't work. Still feeling kinda bad. I'm starting to get worried. What if something is really wrong?
+Mom: Don't panic! I'm sure everything is fine and it'll pass. Just remember to BREATHE when you start getting carried away. 
+You: Ok, Mom.
+
+:: Texas Chainsaw Masacre
 
 
 
