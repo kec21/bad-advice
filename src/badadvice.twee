@@ -64,20 +64,10 @@ Dad: Of course not! What nonsense. You know, the more attention you give it the 
 
 :: boots
 You're not really sure what your dad meant, but you decide to go buy some boots with straps because you need some new shoes anyway.You go to the shoe store and find only a few pairs of boots with anything that could be called a "bootstrap"... 
-Buy the [[black]] combat boots with a single strap on the back.
-Buy the [[blue]] boots with two side straps that look like belts.
-Buy the [[red]] seude boots with two overlace straps.
-:: black 
+Buy the combat boots with a single strap on the back.
 You stand in your new black combat boots and squat down to ready yourself to grab the two tiny loops on the back of the boots, wondering how you ended up in this position. Oh well, you think, and yank up as hard as you can. You hit the backs of your calves, and fall forward flat on your face. Deciding it must be a strap malfunction, you go back to the store and buy another pair.
-Go buy another pair of [[boots]].
-Go talk to [[John]].
-:: blue 
-You put on the blue boots and grab the straps running across the tops. This time you decide to sit down when you pull, and once you are comfy you give the bootstraps a sharp upward tug. The straps rip off completely and the boots are ruined. Still convinced that it must be the wrong strap, you move on to your final pair of boots. 
-Go buy another pair of [[boots]].
-Go talk to [[John]].
-:: red
-You put on the red suede boots with overlacing, sit on the floor, and pull up on the laces. The rip, unceremoniously, and you have now ruined a really nice pair of boots. 
-Go buy another pair of [[boots]].
+
+
 Go talk to [[John]].
 
 :: John
@@ -126,10 +116,11 @@ And every [[meal]] after that...
 :: meal
 You now eat kale regularly, and have gotten quite good at preparing it a variety of different ways. You notice some improvement in the first few days, so you keep going. Everything seems to fine until you wake up one day with horrible abdominal pain. It's the worst pain you've ever felt, so you decide not to mess around and go straight to the [[hospital]].
 :: hospital
-At the hospital, they are very nice. They give you pain killers and do a scan, and after a while a doctor comes to talk to you. He tells you that you have something called a bezoar - an intestinal blockage. He asks if you have been eating a lot of fiber and you explain that you recently incorporated a lot of kale into your diet. He laughs and tells you that they have been having a lot of these cases lately, and kale is notorious for causing a blockage due to its extremely fiborus nature. He advises you in the procedure that will get you unblocked, and then recommends a diet of liquids and soft foods before going back to a regular diet.
+At the hospital, they are very nice. They give you pain killers and do a scan, and after a while a doctor comes to talk to you. He tells you that you have something called a [[bezoar]] - an intestinal blockage. He asks if you have been eating a lot of fiber and you explain that you recently incorporated a lot of kale into your diet. He laughs and tells you that they have been having a lot of these cases lately, and kale is notorious for causing a blockage due to its extremely fiborus nature. He advises you in the procedure that will get you unblocked, and then recommends a diet of liquids and soft foods before going back to a regular diet.
 
-Doctor: Remember... you can get too much of a good thing! Moderation is key!
+:: bezoar
 [img[bezoar.jpeg]]
+Doctor: Remember... you can get too much of a good thing! Moderation is key!
 
 You take it easy for the next few days, and notice that you are still not feeling great. The doctor seemed to be able to tell what was wrong right away, so you consider making an appointment.
 Call the doctor and make an appointment. 
