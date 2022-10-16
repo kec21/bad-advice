@@ -160,10 +160,10 @@ You eat kale regularly, and have gotten quite good at preparing it a variety of 
 You GP runs some tests and takes your bloodwork. The first tests are normal and after asking about dietary changes, he becomes concerned when you mention kale. He orders more [[bloodwork]].
 
 [img[labs.jpg]]
-::bloodwork
+:: bloodwork
 Your bloodwork comes back highly irregular. You have several different heavy metals in your system, including thallium. You remember this being part of a James Bond movie...
 
-[img[bond.jpg]]
+[img[bond.jpg]] 
 
 The doctor can't remove the thallium, so they try to make you as comfortable as possible. Your fate has become the same as Mr. White from the Bond movie.
 
@@ -181,18 +181,18 @@ Doctor: Remember... you can get too much of a good thing! Moderation is key!
 You have the world at your fingertips, why haven't you consulted the internet yet? You shake your head at missing something so obvious, and do a quick search for symptom checkers...
 
 With a name like [[WebMD]], what could go wrong?
-The internet is a cesspool of advice, most of it bad. Maybe you should go to a [[medical practicioner]]...
+The internet is a cesspool of advice, most of it bad. Maybe you should go to a medical [[professional]]...
 
 :: WebMD 
 You turn on your computer, and type WebMd into the browser search bar...
 
-<<click [img[bodymap.jpg][result]]>><<script>>/* (code) */<</script>><</click>>
+[img[bodymap.jpeg][result]]
 
-::result
+:: result
 The computer takes a minute and calculates your result...
 YOU HAVE CANCER. 
 
-[img[webmd.jpeg]]
+[img[webmdcancer.jpeg]]
 
 :: Pop 
 Your dad is in the garage again when you get to your parents' house, and you start wondering if he he ceases to exist outside those four flimsy walls...
@@ -222,7 +222,7 @@ You finally [[snap]] and start yelling at your mother.
 Breathe [[excessively]] out of spite.
 Ask if she has any [[real]] advice.
 
-::snap
+::  snap
 You always do this! You belittle my complaints and give me horrible advice! JUST BREATHE??? I AM BREATHING!!! What a ridiculous thing to say!
 
 You keep yelling and yelling and your face turns red as your blood pressure and heart rate continue to raise. 
@@ -232,22 +232,22 @@ Mom: Honey, take a deep breath... just calm down...
 You stop, hold your breath out of spite, and a blood vessel inside your brain ruptures. Your last sight is your mother standing over you imploring you to breathe.
 
 [img[anuerysm.jpeg]]
-::excessively
+:: excessively
 You start breathing, faster and faster.Your mother rolls her eyes.
 
 Mom: So dramatic! Go watch your scary movies and stop teasing me. Maybe you'll sumon a demon and really have something to complain about!
 
 Go watch Texas Chainsaw [[Masacre]]
 
-::real
+:: real
 You ask your mother if she has any real advice or if she thinks you should go to the doctor.
 
 Mom: You could try using one of those online symptom checker things before you go spending a lot of money on a doctor. Why don't you try that?
 
 Try an online [[symptom]] checker.
-Go to a medical [[practicioner]]. 
+Go to a medical [[professional]]. 
 
-::practicioner
+::professional
 At this point you feel like you're just going around in circles, so you decide to see a doctor. You last GP quit the practice, so you choose from the list on the website.
 
 Pick the doctor with [[3]] star reviews.
@@ -256,10 +256,10 @@ Pick the doctor with [[5]] star reviews.
 ::3
 You picked a more affordable but less highly rated doctor. He sends you to various specialists and runs lots of tests, but in the end you don't feel any different. Well... your wallet feels lighter. 
 
-::5
+:: 5
 You picked an expensive, but highly rated doctor. She is a no nonsense kind of person and after a few sets of normal tests, advices a healthy and balanced diet, mild to moderate exercise, and a few vitamin supplements. She tells you to stay away from fad cures and bad advice. It's the best advice you've gotten so far!
 
-::Masacre
+:: Masacre
 
 You decide that your parents are nuts and watch your movie. It's great and you're already in the mood for horror, so when it ends you go looking for another one. You find a movie called ANTRUM: THE DEADLIEST MOVIE EVER MADE, and are very intrigued. It's a cursed film from the 1970s and is supposed to be cursed. You roll your eyes and think, this must be one of the films your dad was afriad of... It has a title card for the film that reads:
 By continuing to watch this film, you agree that the producers of this film have made you aware of the history and dangers associated with Antrum. The producers, distributors, cast, crew, union, and theater management on all levels, are released of all liability for any event that occurs to you during or after your screening, including but not limited to illness, injury, mortal danger, or death. If you disagree in any way with this notice, you must leave the theatre now. 
@@ -271,7 +271,7 @@ Watch [[Antrum]].
 A film that can curse you? What do they think, that you're a child? You decide to prove your courage and watch the film.
 A voice recites: One by one we pray to thee, protect us from all we'll see. From all we'll hear, and touch, and smell. From all the unknown dark in [[Hell]].
 
-::Hell
+:: Hell
 You finish the movie and feel fine. Nothing happened. What a bunch of nonsense. You get up from the couch and go to the bathroom to splash some cold water on your face. You open the door to the bathroom and a cacophany of screams and a wall of heat hits you - it looks like the portal to hell. You try to stumble back from the door, but something reaches out and grabs your arm. It pulls you in to this realm, and you are never heard from again...
 
 [img[helldoor.jpg]]
