@@ -185,6 +185,7 @@ The internet is a cesspool of advice, most of it bad. Maybe you should go to a m
 
 :: WebMD 
 You turn on your computer, and type WebMd into the browser search bar...
+The symptom checker prompts you with a body map and asks you to click where you are having discomfort.
 
 [img[bodymap.jpeg][result]]
 
@@ -247,13 +248,13 @@ Mom: You could try using one of those online symptom checker things before you g
 Try an online [[symptom]] checker.
 Go to a medical [[professional]]. 
 
-::professional
+:: professional
 At this point you feel like you're just going around in circles, so you decide to see a doctor. You last GP quit the practice, so you choose from the list on the website.
 
 Pick the doctor with [[3]] star reviews.
 Pick the doctor with [[5]] star reviews.
 
-::3
+:: 3
 You picked a more affordable but less highly rated doctor. He sends you to various specialists and runs lots of tests, but in the end you don't feel any different. Well... your wallet feels lighter. 
 
 :: 5
