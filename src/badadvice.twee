@@ -45,7 +45,7 @@ You feel nauseated and dizzy, and you have a strange and overwhelming craving fo
 You are in a dark room and hear beeping noises. A face looks down at you...
 Doctor: It's too bad really. There's no telling if or when they will come out of the coma. You'd think this type of thing was impossible, but you can get too much of a good thing. Water intoxication and toxicity is a hell of a way to go...
 
-[img[liquiddeath.jpeg]]
+[img[liquiddeath.jpeg][end]]
 
 :: incorporate
 You not only decide to drink more water, you start taking more showers and baths, go swimming, and change most of your foods to a liquid diet. Mae West said, "Too much of a good thing can be wonderful." After a few weeks of your new dihydrogen monoxide lifestyle, you become overwhelmed by an urge to swim in the [[sea]].
@@ -53,7 +53,7 @@ You not only decide to drink more water, you start taking more showers and baths
 ::sea
 You stand at the beach edge for a long time looking out at the ocean, and then slowly put one foot in front of the other until you are waist deep in the ocean. You sway as the current sloshes you back and forth, and little by little you are absorbed into the water. Your molecules disperse and you become part of the ocean, then the rain, and follow the water cycle across the land.
 
-[img[sea.jpeg]]
+[img[sea.jpeg][end]]
 
 :: sister 
 You tell your sister about the ridiculous advice your mother gave you, and find yourself being bombarded with information about yoga.
@@ -75,12 +75,12 @@ You push your way through class despite horrible pain. On the way home, you have
 ::urgent
 At urgent care they do the best they can, but determine that your kidneys are failing. They send you to the hospital and after some tests, they figure out that you have Rhabdomyolysis. It can be a life-threatening condition caused by muscle breakdown and muscle death. This dangerous muscle damage can result from overexertion, trauma, toxic substances or disease. As muscle cells disintegrate, they release a protein called myoglobin into the blood. The doctor tells you that your kidneys are failing from removing this protein and they will do their best to manage your symptoms, but it doesn't look good.
 
-[img[rhom.jpeg]]
+[img[rhom.jpeg][end]]
 
 ::ER 
 You find out that you have torn your hamstring, an extremely common injury for novie yoga students doing poses too agressively. You now have a routine of physical therapy to try to heal the injury and avoid surgery. 
 
-[img[hamstring.jpeg]]
+[img[hamstring.jpeg][end]]
 
 :: dad 
 You're not a big fan of stretchy pants or lying in a pool of your own sweat on a mat, so you decide to go talk to your dad. He's out in the garage, working on his car.
@@ -95,7 +95,7 @@ You're not really sure what your dad meant, so you decide to go talk to your bro
 :: boots
 You're not really sure what your dad meant, but you decide to go buy some boots with straps because you need some new shoes anyway.You go to the shoe store and find only a few pairs of boots with anything that could be called a "bootstrap"... after some deliberation you buy the combat boots with a single strap on the back. You squat down to ready yourself to grab the two tiny loops on the back of the boots, wondering how you ended up in this position. Oh well, you think, and yank up as hard as you can. You hit the backs of your calves, and fall forward flat on your face. You choke on blood as your broken nose empties an unending stream of your vital fluid onto the floor and down your throat. You wonder if your death will be included in 1000 Ways to Die...
 
-[img[bleed.jpeg]]
+[img[bleed.jpeg][end]]
 
 :: John
 The rest of your family doesn't seem to have any good suggestions, so you decide to go talk to your brother. He's a sensible guy! You call him on Skype - he's on another site installation for his company and is out of town. He's in IT and believes in science... surely he'll have a more grounded perspective... 
@@ -124,7 +124,7 @@ You are editing your episode, and catch a glimpse of yourself in a reflective su
 :: mirror
 You are Duncan Trusell! 
 
-[img[DTFH.jpeg]]
+[img[DTFH.jpeg][end]]
 The pills awakened you from your confused slumber and you have now manifested as your true self. The answer was within you all along!
 
 ::dose
@@ -163,7 +163,7 @@ You GP runs some tests and takes your bloodwork. The first tests are normal and 
 :: bloodwork
 Your bloodwork comes back highly irregular. You have several different heavy metals in your system, including thallium. You remember this being part of a James Bond movie...
 
-[img[bond.jpg]] 
+[img[bond.jpg][end]] 
 
 The doctor can't remove the thallium, so they try to make you as comfortable as possible. Your fate has become the same as Mr. White from the Bond movie.
 
@@ -172,7 +172,7 @@ At the hospital, they are very nice. They give you pain killers and do a scan, a
 
 :: bezoar
 
-[img[bezoar.jpeg]]
+[img[bezoar.jpeg][end]]
 
 Doctor: Remember... you can get too much of a good thing! Moderation is key!
 
@@ -193,7 +193,7 @@ The symptom checker prompts you with a body map and asks you to click where you 
 The computer takes a minute and calculates your result...
 YOU HAVE CANCER. 
 
-[img[webmdcancer.jpeg]]
+[img[webmdcancer.jpeg][end]]
 
 :: Pop 
 Your dad is in the garage again when you get to your parents' house, and you start wondering if he he ceases to exist outside those four flimsy walls...
@@ -232,7 +232,7 @@ Mom: Honey, take a deep breath... just calm down...
 
 You stop, hold your breath out of spite, and a blood vessel inside your brain ruptures. Your last sight is your mother standing over you imploring you to breathe.
 
-[img[anuerysm.jpeg]]
+[img[anuerysm.jpeg][end]]
 :: excessively
 You start breathing, faster and faster.Your mother rolls her eyes.
 
@@ -257,8 +257,10 @@ Pick the doctor with [[5]] star reviews.
 :: 3
 You picked a more affordable but less highly rated doctor. He sends you to various specialists and runs lots of tests, but in the end you don't feel any different. Well... your wallet feels lighter. 
 
+[img[wallet.jpeg][end]]
 :: 5
 You picked an expensive, but highly rated doctor. She is a no nonsense kind of person and after a few sets of normal tests, advices a healthy and balanced diet, mild to moderate exercise, and a few vitamin supplements. She tells you to stay away from fad cures and bad advice. It's the best advice you've gotten so far!
+
 
 :: Masacre
 
@@ -275,6 +277,54 @@ A voice recites: One by one we pray to thee, protect us from all we'll see. From
 :: Hell
 You finish the movie and feel fine. Nothing happened. What a bunch of nonsense. You get up from the couch and go to the bathroom to splash some cold water on your face. You open the door to the bathroom and a cacophany of screams and a wall of heat hits you - it looks like the portal to hell. You try to stumble back from the door, but something reaches out and grabs your arm. It pulls you in to this realm, and you are never heard from again...
 
-[img[helldoor.jpg]]
+[img[helldoor.jpg][end]]
+
+:: end
+Not all advice is good advice! Becareful who you listen to.
+
+Image Credits by Story Section
+
+Advice
+https://www.wrike.com/blog/7-stakeholders-consult-starting-new-project/ 
+
+Liquid Death
+https://thechallengerproject.com/blog/challenger-brands-to-watch-2021-liquid-death
+
+Sea
+https://www.pexels.com/photo/person-standing-in-sea-at-sunset-12179279/
+
+Hamstring 
+https://www.active.com/fitness/articles/how-to-recover-from-a-hamstring-strain 
+
+Muscle Death
+https://www.nejm.org/doi/full/10.1056/nejmra0801327 
+
+Nosebleed
+https://commons.wikimedia.org/wiki/File:Epistaxis1.jpg 
+
+Pills
+https://www.reddeeradvocate.com/life/planning-spring-cleaning-clear-leftover-drugs-from-medicine-cabinet/ 
+
+Duncan 
+https://futurethinkers.org/duncan-trussell-apocalypse/ 
+
+Bezoar
+https://www.merckmanuals.com/professional/gastrointestinal-disorders/bezoars-and-foreign-bodies/bezoars 
+
+Body Map
+https://www.thegriefpractice.com/practices/body-mapping/ 
+
+WebMD
+https://imgflip.com/tag/webmd 
+
+Wallet
+https://www.pexels.com/photo/person-holding-an-empty-wallet-8515596/ 
+
+Antrum 
+https://www.imdb.com/title/tt9213244/mediaviewer/rm1435995905/?ref_=tt_ov_i
+
+Hell
+https://pxhere.com/en/photo/450391 
+
 
 
