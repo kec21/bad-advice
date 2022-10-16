@@ -56,15 +56,17 @@ You stand at the beach edge for a long time looking out at the ocean, and then s
 You tell your sister about the ridiculous advice your mother gave you, and find yourself being bombarded with information about yoga.
 
 sister: Of course water is important, but have you been STRETCHING? I started doing yogaclass a few weeks ago and I feel A M A Z I N G !!!! Come with me to my next class!
+
 Go to the [[yoga]] class with your sister.
 Go ask your [[dad]] for advice. 
 
 :: yoga 
 You go with your sister. The class is actually fun at first, and you really feel like you could make this a part of your regular routine. As you go into another forward fold, you feel a sharp, tearing pain at the top of your thigh and across the back of your leg. 
-You keep going through the pain and [[double]] down on yoga - wouldn't physical therapy be the solution from the doctor anyway?
+
+[[Double]] down on yoga - wouldn't physical therapy be the solution from the doctor anyway?
 You're in so much pain you have to interrupt class and have your sister take you to the [[ER]].
 
-::double
+::Double
 You push your way through class despite horrible pain. On the way home, you have to stop more than once to pee. You think that's strange but make it home ok. Suddenly the peeing stops, and you feel more tired as the night goes on. You look down at your legs and notice they are swollen. You start to feel a strange flutter in your chest and decide to go to [[urgent]] care.
 
 ::urgent
@@ -106,11 +108,12 @@ John: No it's not like that, trust me. It's such a small dose you'll never notic
 
 A few days later, a small discreet package arrives at your door. You open it and inside is an innocent looking bottle of pills. You carefully read the directions and consider taking your first dose... er... micro-dose...
 
-Take the [[pill]].
+Take one small [[dose]].
+Take a bunch of [[pills]].
 Go talk to your best friend, [[William]], instead.
 
-:: pill
-You take the pill, and at first nothing happens. You feel a little happier than usual, but not overwhelmingly so. There seems to be a little extra pep in your step as you walk down the street. Colors seem brighter and you begin to examine the tiny details of various things around you. This goes on for the rest of the day, and you are convinced you have discovered the secrets of life. You find yourself overwhelmed by the urge to start a [[podcast]] and share your knowledge with others.
+:: pills
+You take a bunch of pills, and at first nothing happens. You feel a little happier than usual, but not overwhelmingly so. There seems to be a little extra pep in your step as you walk down the street. Colors seem brighter and you begin to examine the tiny details of various things around you. This goes on for the rest of the day, and you are convinced you have discovered the secrets of life. You find yourself overwhelmed by the urge to start a [[podcast]] and share your knowledge with others.
 
 :: podcast
 You are editing your episode, and catch a glimpse of yourself in a reflective surface. Your face looks strange so you go in the bathroom to look in the [[mirror]]... 
@@ -120,6 +123,9 @@ You are Duncan Trusell!
 
 [img[DTFH.jpeg]]
 The pills awakened you from your confused slumber and you have now manifested as your true self. The answer was within you all along!
+
+::dose
+You are extremely cautious and take one small dose. You don't really notice anything, even after trying a few more times. Deciding that the entire venture was a waste of time, you throw the package and pills away and decide to go [[talk]] to you mother again.
 
 :: William 
 You decide that taking mushroom pills is just way too weird for you. Your brother seems to like them enough, and you're sure there's solid science behind micro-dosing, but you feel uncomfortable taking pills from a random internet site. You decide you need to get out of the house and go have lunch with William at your favorite restaurant.
@@ -191,7 +197,7 @@ Pop: Never you mind! Go see what your mother wanted, she was asking for you.
 Go [[talk]] to your mother.
 Go watch Texas Chainsaw [[Masacre]].
 
-:: talk to mother
+:: talk
 
 You're pretty sure the fumes from the car engine are getting to your dad's head, so you go back to talk to your mom again.
 
@@ -200,15 +206,32 @@ You: Yeah he said to see what you wanted.
 Mom: I just wanted to check and see if you were feeling any better. Did you make sure to drink more water?
 You: Yeah, I tried that and it didn't work. Still feeling kinda bad. I'm starting to get worried. What if something is really wrong?
 Mom: Don't panic! I'm sure everything is fine and it'll pass. Just remember to BREATHE when you start getting carried away. 
-You: Ok, Mom.
 
-:: Texas Chainsaw Masacre
+You finally [[snap]] and start yelling at your mother.
+Breathe [[excessively]] out of spite.
 
-You decide that your dad is a nut and watch your movie. It's great and you're already in the mood for horror, so when it ends you go looking for another one. You find a movie called ANTRUM: THE DEADLIEST MOVIE EVER MADE, and are very intrigued. It's a cursed film from the 1970s and is supposed to be cursed. You roll your eyes and think, this must be one of the films your dad was afriad of... It has a title card for the film that reads:
+::snap
+You always do this! You belittle my complaints and give me horrible advice! JUST BREATHE??? I AM BREATHING!!! What a ridiculous thing to say!
+
+You keep yelling and yelling and your face turns red as your blood pressure and heart rate continue to raise. 
+
+Mom: Honey, take a deep breath... just calm down...
+
+You stop, hold your breath out of spite, and a blood vessel inside your brain ruptures. Your last sight is your mother standing over you imploring you to breathe.
+
+::excessively
+You start breathing, faster and faster.Your mother rolls her eyes.
+
+Mom: So dramatic! Go watch your scary movies and stop teasing me. Maybe you'll sumon a demon and really have something to complain about!
+
+Go watch Texas Chainsaw [[Masacre]]
+
+::Masacre
+
+You decide that your parents are nuts and watch your movie. It's great and you're already in the mood for horror, so when it ends you go looking for another one. You find a movie called ANTRUM: THE DEADLIEST MOVIE EVER MADE, and are very intrigued. It's a cursed film from the 1970s and is supposed to be cursed. You roll your eyes and think, this must be one of the films your dad was afriad of... It has a title card for the film that reads:
 By continuing to watch this film, you agree that the producers of this film have made you aware of the history and dangers associated with Antrum. The producers, distributors, cast, crew, union, and theater management on all levels, are released of all liability for any event that occurs to you during or after your screening, including but not limited to illness, injury, mortal danger, or death. If you disagree in any way with this notice, you must leave the theatre now. 
 
-Watch [[Antrum]].
-Listen to Dad. 
+Watch [[Antrum]]. 
 
 :: Antrum
 
@@ -216,6 +239,7 @@ A film that can curse you? What do they think, that you're a child? You decide t
 A voice recites: One by one we pray to thee, protect us from all we'll see. From all we'll hear, and touch, and smell. From all the unknown dark in [[Hell]].
 
 ::Hell
-You finish the movie and feel fine. Nothing happened. What a bunch of nonsense. You get up from the couch and go to the bathroom to splash some cold water on your face. 
+You finish the movie and feel fine. Nothing happened. What a bunch of nonsense. You get up from the couch and go to the bathroom to splash some cold water on your face. You open the door to the bathroom and a cacophany of screams and a wall of heat hits you - it looks like the portal to hell. You try to stumble back from the door, but something reaches out and grabs your arm. It pulls you in to this realm, and you are never heard from again...
+
 
 
