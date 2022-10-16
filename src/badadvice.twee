@@ -176,15 +176,23 @@ At the hospital, they are very nice. They give you pain killers and do a scan, a
 
 Doctor: Remember... you can get too much of a good thing! Moderation is key!
 
-:: internet
+:: symptom
 
 You have the world at your fingertips, why haven't you consulted the internet yet? You shake your head at missing something so obvious, and do a quick search for symptom checkers...
 
 With a name like [[WebMD]], what could go wrong?
-The internet is a cesspool of advice, most of it bad. Maybe you should go back and talk to [[Pop]] again...
+The internet is a cesspool of advice, most of it bad. Maybe you should go to a [[medical practicioner]]...
 
 :: WebMD 
 You turn on your computer, and type WebMd into the browser search bar...
+
+<<click [img[bodymap.jpg][result]]>><<script>>/* (code) */<</script>><</click>>
+
+::result
+The computer takes a minute and calculates your result...
+YOU HAVE CANCER. 
+
+[img[webmd.jpeg]]
 
 :: Pop 
 Your dad is in the garage again when you get to your parents' house, and you start wondering if he he ceases to exist outside those four flimsy walls...
@@ -216,6 +224,7 @@ Mom: Don't panic! I'm sure everything is fine and it'll pass. Just remember to B
 
 You finally [[snap]] and start yelling at your mother.
 Breathe [[excessively]] out of spite.
+Ask if she has any [[real]] advice.
 
 ::snap
 You always do this! You belittle my complaints and give me horrible advice! JUST BREATHE??? I AM BREATHING!!! What a ridiculous thing to say!
@@ -232,6 +241,26 @@ You start breathing, faster and faster.Your mother rolls her eyes.
 Mom: So dramatic! Go watch your scary movies and stop teasing me. Maybe you'll sumon a demon and really have something to complain about!
 
 Go watch Texas Chainsaw [[Masacre]]
+
+::real
+You ask your mother if she has any real advice or if she thinks you should go to the doctor.
+
+Mom: You could try using one of those online symptom checker things before you go spending a lot of money on a doctor. Why don't you try that?
+
+Try an online [[symptom]] checker.
+Go to a medical [[practicioner]]. 
+
+::practicioner
+At this point you feel like you're just going around in circles, so you decide to see a doctor. You last GP quit the practice, so you choose from the list on the website.
+
+Pick the doctor with [[3]] star reviews.
+Pick the doctor with [[5]] star reviews.
+
+::3
+You picked a more affordable but less highly rated doctor. He sends you to various specialists and runs lots of tests, but in the end you don't feel any different. Well... your wallet feels lighter. 
+
+::5
+You picked an expensive, but highly rated doctor. She is a no nonsense kind of person and after a few sets of normal tests, advices a healthy and balanced diet, mild to moderate exercise, and a few vitamin supplements. She tells you to stay away from fad cures and bad advice. It's the best advice you've gotten so far!
 
 ::Masacre
 
